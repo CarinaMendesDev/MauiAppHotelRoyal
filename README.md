@@ -1,3 +1,4 @@
+
 # 🏨 Hotel Royal App
 
 Um app mobile elegante e funcional para simular a contratação de hospedagens no fictício **Hotel Royal**, desenvolvido com **.NET MAUI**.
@@ -25,34 +26,47 @@ Um app mobile elegante e funcional para simular a contratação de hospedagens n
 
 ## 📲 Telas do App
 
-| 📋 Contratação de Hospedagem |
-| ![image](https://github.com/user-attachments/assets/22b17445-136d-4cb3-a6ee-2fec8067750e)|
-ℹ️ Tela Sobre |
-|![image](https://github.com/user-attachments/assets/3f6c75b0-8a00-4427-8bc8-62c3f151ec03)
- |
+### 🧾 Contratação de Hospedagem  
+![Contratação de Hospedagem](https://github.com/user-attachments/assets/71a8f984-fe03-45a0-89d4-36828f80da51)
+
+### 🛏️ Suíte Selecionada / Hospedagem Finalizada  
+![Hospedagem Finalizada](https://github.com/user-attachments/assets/269ba260-b380-43d3-8067-b556bdc730d6)
+
+### ℹ️ Tela Sobre  
+![Tela Sobre](https://github.com/user-attachments/assets/233642da-906c-438b-b3cc-a02945a6db3a)
+
+> *Adicione novas imagens aqui, se tiver mais telas.*
 
 ---
 
 ## 🗂️ Estrutura do Projeto
 
+```
 📁 MauiAppHotelRoyal
 ├── App.xaml / App.xaml.cs
 ├── Views/
-│ ├── ContratacaoHospedagem.xaml / .cs
-│ ├── HospedagemContratada.xaml / .cs
-│ └── Sobre.xaml / .cs
+│   ├── ContratacaoHospedagem.xaml / .cs
+│   ├── HospedagemContratada.xaml / .cs
+│   └── Sobre.xaml / .cs
 ├── Models/
-│ └── Quarto.cs
+│   └── Quarto.cs
 ├── Resources/
-│ └── Images/
-│ └── logo.png
+│   └── Images/
+│       └── logo.png
 └── MainPage.xaml / .cs
+```
 
-👩‍💻 Desenvolvido por
-Carina Mendes
-📚 Projeto acadêmico – 2025
+---
+
+## 👩‍💻 Desenvolvido por
+
+**Carina Mendes**  
+📚 Projeto acadêmico – 2025  
 🎓 Curso Técnico em Desenvolvimento de Sistemas
 
-📄 Licença
-Este projeto foi criado para fins educacionais.
+---
+
+## 📄 Licença
+
+Este projeto foi criado para fins educacionais.  
 📌 Sinta-se livre para usar como base para estudos e práticas pessoais!
