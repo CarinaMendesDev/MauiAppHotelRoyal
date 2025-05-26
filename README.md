@@ -1,7 +1,8 @@
+<h1 align="center">🏨 Hotel Royal App</h1>
 
-# 🏨 Hotel Royal App
-
-Um app mobile elegante e funcional para simular a contratação de hospedagens no fictício **Hotel Royal**, desenvolvido com **.NET MAUI**.
+<p align="center">
+  Um app mobile elegante e funcional para simular a contratação de hospedagens no fictício <strong>Hotel Royal</strong>, desenvolvido com <strong>.NET MAUI</strong>.
+</p>
 
 ---
 
@@ -34,8 +35,6 @@ Um app mobile elegante e funcional para simular a contratação de hospedagens n
 
 ### ℹ️ Tela Sobre  
 ![Tela Sobre](https://github.com/user-attachments/assets/233642da-906c-438b-b3cc-a02945a6db3a)
-
-> *Adicione novas imagens aqui, se tiver mais telas.*
 
 ---
 
